@@ -32,7 +32,7 @@ Always learning, building, and leveling up every day.
 
 
 ## 📫 Contact Me
-- 💬 Telegram: [@YourTelegram](https://t.me/justAprogrammerTel)  
+- 💬 Telegram: [@justAprogrammerTel]
 - ✉️ Email: alimblack787878@gmail.com 
 
 ---
