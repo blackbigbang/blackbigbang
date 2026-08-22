@@ -1,16 +1,14 @@
-# 👋 Hey there! I'm Ali  
+# 👋 Hey! I'm Ali  
 
-I'm a passionate **Python developer** who loves building real-world tools, experimenting with **AI**, and creating cool stuff on the web 😎  
-Always learning, building, and leveling up every day.  
-
+I'm a **Python developer** who loves building real-world tools, experimenting with **Artificial Intelligence**, and creating things.
 ---
 
-## 🧠 Skills
-- 🐍 **Python** (Automation، Programming, Web Scraping, AI Projects)  
+## 🧠 Languages
+- 🐍 **Python** (Automation, programming, web, artificial intelligence projects)
 - 🌐 **HTML / CSS / JavaScript**  
 - 🤖 **Chatbot & AI Integration**  
-- 📝 **Translation & Fast Typing**  
-- 🔐 **Security Basics** (Legal Web Penetration Testing)
+- 📝 **Translation **  
+- 🔐 **Security Basics** (Web Penetration Testing...)
 
 ---
 
@@ -20,19 +18,18 @@ Always learning, building, and leveling up every day.
 ---
 
 ## 🚀 My Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🕸️ **Web Scraper** | A script that collects data from websites and saves it to CSV | Python, BeautifulSoup |
-| 🤖 **AI Chatbot** | Simple chatbot that responds using AI models | Python, API |
-| 💻 **Landing Page** | Responsive page to showcase a product or service | HTML, CSS, JS |
+| Project | Description | Technology |
+|---------|------------|------|
+| 🕸️ **Web Scraper** | A script that collects data from websites and saves it in CSV | Python, BeautifulSoup |
+| 🤖 **AI Chatbot** | Chatbot and assistant that responds using AI models | Python, API, Model |
 
-*(More projects coming soon 🚧)*
+
 
 ---
 
 
 ## 📫 Contact Me
-- 💬 Telegram: [@justAprogrammerTel]
+- 💬 Telegram: [@BlackBigBang]
 - ✉️ Email: alimblack787878@gmail.com 
 
 ---
