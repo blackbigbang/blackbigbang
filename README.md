@@ -34,7 +34,6 @@ I’m a programmer from Iran, and I try to make my life easier through coding.
 
 Thanks for visiting my universe! 🌌
 
-The next big idea might start with one line of code.
 
 Designed with 💜
 
