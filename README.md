@@ -1,19 +1,6 @@
 # 👋 Hey! I'm Ali  
 
 I'm a **Python developer** who loves building real-world tools, experimenting with **Artificial Intelligence**, and creating things.
----
-
-## 🧠 Languages
-- 🐍 **Python** (Automation, programming, web, artificial intelligence projects)
-- 🌐 **HTML / CSS / JavaScript**  
-- 🤖 **Chatbot & AI Integration**  
-- 📝 **Translation **  
-- 🔐 **Security Basics** (Web Penetration Testing...)
-
----
-
-## 🧰 Tools I Use Often
-`Python` `VS Code` `Git` `HTML5` `CSS3` `JavaScript` `Flask` `Linux` `Vercel`
 
 ---
 
