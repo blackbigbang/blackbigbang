@@ -31,38 +31,6 @@ I’m a programmer from Iran, and I try to make my life easier through coding.
 
 
 
-🛰️ "06 // CURRENT MISSION"
-
-<div align="center">Mission| Objective
-🐍 Python| Keep learning and building
-🧠 AI| Explore intelligent applications
-⚙️ Automation| Make repetitive tasks easier
-🚀 Projects| Turn ideas into working software
-🌌 Open Source| Explore and contribute to the community
-
-</div>---
-
-💭 "07 // DEVELOPER PHILOSOPHY"
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Think+it.+Code+it.+Improve+it.;Errors+are+part+of+the+journey.;Stay+curious.+Stay+creative.;Make+every+commit+count." alt="Developer philosophy animation"/><br/>while True:
-    learn()
-    experiment()
-    build()
-    improve()
-
-"01000100 01010010 01000101 01000001 01001101"
-
-DREAM BIG. BUILD BIGGER. 💜
-
-</div>---
-
-🌠 "08 // TRANSMISSION END"
-
-<div align="center"><a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Universe-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a><a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Follow-The%20Journey-00C2FF?style=for-the-badge&logo=github&logoColor=black" alt="Follow my journey"/>
-</a><br/><br/>
 
 Thanks for visiting my universe! 🌌
 
