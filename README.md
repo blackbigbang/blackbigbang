@@ -36,6 +36,6 @@ Thanks for visiting my universe! 🌌
 
 The next big idea might start with one line of code.
 
-<br/><sub>Designed with 💜, powered by curiosity, and built by BigBang.</sub>
+Designed with 💜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:8A2BE2,75:3D087B,100:090014&height=150&section=footer&animation=twinkling" width="100%" alt="Neon space footer"/></div>
