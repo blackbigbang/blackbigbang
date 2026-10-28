@@ -4,7 +4,6 @@
 
 <br/>"✦ Somewhere between imagination and reality ✦"
 
-One mind. Endless ideas. Infinite possibilities. 🌌
 
 </div>---
 
@@ -17,7 +16,7 @@ I’m a programmer from Iran, and I try to make my life easier through coding.
 
 <br clear="right"/>---
 
-💜 "02 // MY TECH UNIVERSE"
+
 
 <div align="center"><img src="https://img.shields.io/badge/Python-My%20Favorite-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=120024" alt="Favorite language: Python"/>
 <img src="https://img.shields.io/badge/Focus-Creative%20Coding-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Creative coding"/>
