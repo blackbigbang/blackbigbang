@@ -8,22 +8,9 @@ One mind. Endless ideas. Infinite possibilities. 🌌
 
 </div>---
 
-<img align="right" width="190" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animated coding scene"/>🪐 "01 // WHO AM I?"
+<img align="right" width="190" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animated coding scene"/>🪐 WHO AM I?"
 
-class BigBang:
-    def __init__(self):
-        self.alias = "BigBang"
-        self.favorite_language = "Python"
-        self.universe = [
-            "Programming",
-            "Artificial Intelligence",
-            "Automation",
-            "Creative Projects"
-        ]
-        self.motto = "Think beyond limits."
-
-    def create(self, idea):
-        return f"Building something awesome: {idea} 🚀"
+I’m a programmer from Iran, and I try to make my life easier through coding.
 
 
 me = BigBang()
