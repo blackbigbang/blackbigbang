@@ -24,54 +24,7 @@ I’m a programmer from Iran, and I try to make my life easier through coding.
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Animated futuristic computer"/></div>---
 
-📡 "03 // PROJECT TRANSMISSIONS"
 
-<div align="center"><a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_EXPLORE-ALL_REPOSITORIES-8A2BE2?style=for-the-badge&labelColor=090014" alt="Explore repositories"/>
-</a></div><table>
-<tr>
-<td width="50%">🐍 Python Lab
-
-A space for Python experiments, useful scripts, and creative tools.
-
-Status: "BUILDING"
-
-</td>
-<td width="50%">🤖 AI Universe
-
-Exploring intelligent applications, automation, and AI-powered ideas.
-
-Status: "EXPLORING"
-
-</td>
-</tr>
-<tr>
-<td width="50%">🌐 Digital Playground
-
-A collection of experiments, concepts, and future digital creations.
-
-Status: "EVOLVING"
-
-</td>
-<td width="50%">🎮 Modding Station
-
-Game-related experiments, custom features, and creative modifications.
-
-Status: "EXPERIMENTING"
-
-</td>
-</tr>
-</table>«✨ These are project themes and ideas. Visit my repositories to discover my actual published work.»
-
----
-
-📊 "04 // GITHUB TELEMETRY"
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=B56BFF&icon_color=00E5FF&text_color=EDE7FF&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=090014&title_color=B56BFF&text_color=EDE7FF" alt="Most used repository languages"/><br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=090014&ring=B56BFF&fire=00E5FF&currStreakLabel=B56BFF" alt="GitHub contribution streak"/><br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub achievement trophies"/></div>---
 
 🐍 "05 // THE CONTRIBUTION DIMENSION"
 
