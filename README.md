@@ -26,11 +26,10 @@ I’m a programmer from Iran, and I try to make my life easier through coding.
 
 
 
-🐍 "05 // THE CONTRIBUTION DIMENSION"
 
 <div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/><sub>Every contribution is another star in the universe. ✨</sub>
 
-</div>---
+
 
 🛰️ "06 // CURRENT MISSION"
 
