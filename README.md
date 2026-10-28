@@ -13,14 +13,7 @@ One mind. Endless ideas. Infinite possibilities. 🌌
 I’m a programmer from Iran, and I try to make my life easier through coding.
 
 
-me = BigBang()
 
-- 🌌 Welcome to my corner of the digital universe.
-- 🐍 Python is my favorite language.
-- 🧠 Fascinated by AI, automation, and clever solutions.
-- 🛠️ Turning random ideas into useful projects.
-- 🚀 Always exploring, experimenting, and improving.
-- 💜 Building my own digital identity, one commit at a time.
 
 <br clear="right"/>---
 
