@@ -1,8 +1,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:090014,30:3D087B,65:8A2BE2,100:00E5FF&text=BIGBANG&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=Exploring%20the%20Digital%20Universe&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="BigBang neon space banner"/>Hi there 👋 Thanks for coming!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=900&color=B56BFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;I+turn+ideas+into+code+%E2%9A%A1;Python+is+my+favorite+language+%F0%9F%90%8D;Dream+Big.+Build+Bigger.+%F0%9F%9A%80;The+universe+is+written+in+code." alt="Animated typing introduction"/><br/>""GitHub" (https://img.shields.io/badge/GitHub-BigBang-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/BlackBigBang)
-""Python" (https://img.shields.io/badge/Favorite%20Language-Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)" (https://www.python.org/)
-""Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8A2BE2&label=VISITORS)" (https://github.com/YOUR_USERNAME)
+""Python" 
 
 <br/>"✦ Somewhere between imagination and reality ✦"
 
